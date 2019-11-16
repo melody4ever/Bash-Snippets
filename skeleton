@@ -18,7 +18,15 @@ getConfiguredClient()
     echo "Error: This tool requires either curl, wget, httpie or fetch to be installed." >&2
     return 1
   fi
+
 }
+
+123abfasfjsdas
+dfsa
+fd
+asfd
+af
+
 
 ## Allows to call the users configured client without if statements everywhere
 httpGet()
